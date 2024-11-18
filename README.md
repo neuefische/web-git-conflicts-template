@@ -15,10 +15,11 @@ This template has a few conflicts to help you practice resolving them.
 https://github.com/neuefische/web-git-conflicts-template
 ```
 
-3. Create it as `git-conflics` in your own account. Click on "Begin import" and wait for the import to finish.
-4. In your new Repository open pull requests for the `pirate`, `full-date` and `styling` branches.  
-   _It's easiest to do this by command-clicking on the "Compare & pull request" buttons that appear after you have created the repository on GitHub._
-5. Clone your repository to your computer.
+3. Leave the `username` and `accesstoken or password` fields empty.
+4. Create it as `git-conflicts` in your own account. Click on "Begin import" and wait for the import to finish.
+5. In your new Repository open pull requests for the `pirate`, `full-date` and `styling` branches.
+   > 💡 It's easiest to do this by clicking on the "Compare & pull request" buttons that appear after you have created the repository on GitHub.
+6. Clone your repository to your computer.
 
 All three branches should now show conflicts in the Pull Request interface.
 
